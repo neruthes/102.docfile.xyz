@@ -1,0 +1,14 @@
+{
+  "name": "base32.min",
+  "_cacheHeaders": {
+    "ETag": "\"ff406aac6ea6fbb77e15dd07bec80f3dba8d87fb\"",
+    "Content-Length": "918",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:ff406aac6",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/agnoster/base32-js/master/dist/base32.min.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/agnoster/base32-js/master/dist/base32.min.js",
+  "_direct": true
+}
